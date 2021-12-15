@@ -1,0 +1,22 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "exemplo que segui para iniciar aprendizado com nodejs seguindo youtube de Danki Code (CRUD com NodeJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altgauzen/CRUD-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altgauzen/CRUD-nodejs/issues"
+  },
+  "homepage": "https://github.com/altgauzen/CRUD-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
